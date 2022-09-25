@@ -10,6 +10,7 @@ In this lab I learned nslookup and dig which are two commonly used DNS footprint
 <h2>Environments Used </h2>
 
 - <b>Kali GNU/Linux</b> 
+- <b>openSUSE</b>
 
 <h2>Program walk-through:</h2>
 
